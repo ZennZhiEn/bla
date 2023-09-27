@@ -28,13 +28,13 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/ZennZhiEn/TNB_OCR.git
+    git clone https://github.com/ZennZhiEn/tnb_ocr.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd TNB_OCR
+    cd tnb_ocr
     ```
 
 3. Create a virtual environment (optional but recommended):
